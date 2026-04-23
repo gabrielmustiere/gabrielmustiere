@@ -87,7 +87,7 @@ C'est le prolongement naturel de ce que j'ai toujours cherché à faire : transf
 
 ### 📫 Me contacter
 
-- 🌐 [gabriel-mustiere.com](https://www.gabriel-mustiere.com)
+- 🌐 [mustiere.fr](https://mustiere.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmustiere)
 - 📧 mustiere.gabriel@gmail.com
 
