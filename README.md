@@ -7,7 +7,7 @@
 
 <p align="center">
   📍 Nantes, France · 
-  <a href="https://www.gabriel-mustiere.com">gabriel-mustiere.com</a> · 
+  <a href="https://mustiere.fr">mustiere.fr</a> · 
   <a href="https://www.linkedin.com/in/gabrielmustiere">LinkedIn</a>
 </p>
 
