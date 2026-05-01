@@ -90,9 +90,3 @@ C'est le prolongement naturel de ce que j'ai toujours cherché à faire : transf
 - 🌐 [mustiere.fr](https://mustiere.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmustiere)
 - 📧 mustiere.gabriel@gmail.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmustiere&show_icons=true&hide_border=true&theme=transparent" alt="Stats GitHub" />
-</p>
