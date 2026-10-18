@@ -15,12 +15,12 @@
 
 ### 👋 À propos
 
-Dans la tech depuis 14 ans, **CTO depuis plus de 9 ans**.  
-J'ai accompagné la création et la structuration d'un éditeur SaaS (**Progicar – Groupe GEMY**) jusqu'à une organisation de **25+ personnes réparties en 3 équipes produit**, en étant le premier collaborateur de la filiale : recrutement, stack, pratiques d'ingénierie, DevOps, leadership technique.
+Dans la tech depuis 15 ans, **CTO depuis plus de 9 ans**.  
+J'ai accompagné la création et la structuration d'un éditeur SaaS (**Progicar – Groupe GEMY**) jusqu'à une organisation de **25+ personnes réparties en 3 équipes produit/tech**, en étant le premier collaborateur de la filiale : recrutement, stack, pratiques d'ingénierie, DevOps, leadership technique.
 
 J'ai ensuite cofondé **Passion Barbecue** côté tech, en concevant une plateforme e-commerce Sylius intégrée à tout un écosystème (marketplaces, logistique, repricing, recherche, CRM, CMS headless).
 
-Aujourd'hui, j'accompagne **Anytime** sur l'implémentation de l'authentification forte **WebAuthn / passkeys** (conformité PSD2/SCA).
+Aujourd'hui, j'accompagne **Anytime** en tant **Principal Enginner** pour méner à bien la modernisation technique globale de cette néo-banque.
 
 ---
 
