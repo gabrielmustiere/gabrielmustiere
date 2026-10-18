@@ -57,7 +57,7 @@ Aujourd'hui, j'accompagne **Anytime** en tant **Principal Enginner** pour méner
 `Docker` · `Docker Compose` · `Traefik` · `GitLab CI/CD` · `Linux`
 
 **IA & outillage**  
-`Claude Code` · `Claude Skills` · `MCP` · `Context & harness engineering` · `SDD avec [Forge](https://forge.mustiere.fr)` 
+`Claude Code` · `Claude Skills` · `MCP` · `Context & harness engineering` · `SDD avec `[Forge](https://forge.mustiere.fr)
 
 **Management**  
 `Construction d'équipes` · `Recrutement tech` · `Rituels & delivery` · `Scrum Master`
