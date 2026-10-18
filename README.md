@@ -54,10 +54,10 @@ Aujourd'hui, j'accompagne **Anytime** en tant **Principal Enginner** pour méner
 `Sylius` · `Symfony` · `PHP` · `Meilisearch` · `Directus (headless CMS)` · `Mailjet`
 
 **Infra & DevOps**  
-`Docker` · `Docker Compose` · `Traefik` · `k3s` · `GitLab CI/CD` · `Linux`
+`Docker` · `Docker Compose` · `Traefik` · `GitLab CI/CD` · `Linux`
 
 **IA & outillage**  
-`Claude Code` · `Claude Skills` · `MCP` · `Prompt engineering`
+`Claude Code` · `Claude Skills` · `MCP` · `Context & harness engineering` · `SDD avec [Forge](https://forge.mustiere.fr)` 
 
 **Management**  
 `Construction d'équipes` · `Recrutement tech` · `Rituels & delivery` · `Scrum Master`
